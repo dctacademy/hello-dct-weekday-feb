@@ -16,3 +16,4 @@ function div(a, b){
 function mod(a,b){
     return a%b
 }
+
