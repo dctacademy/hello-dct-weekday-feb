@@ -9,3 +9,7 @@ function sub(a, b){
 function name(){
     return "No game, no life"
 }
+
+function dct(){
+    return "design, code, test"
+}
