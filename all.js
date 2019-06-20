@@ -1,15 +1,15 @@
-function add(a, b){
+function addition(a, b){
     return a + b;
 }
 
-function sub(a, b){
+function subtraction(a, b){
     return a - b;
 }
 
-function mul(a, b){
+function multiplication(a, b){
     return a * b;
 }
 
-function div(a, b){
+function division(a, b){
     return a / b;
 }
