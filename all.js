@@ -1,5 +1,5 @@
 function sum(a, b){
-    return a + b;
+    return console.log(a + b)
 }
 
 function difference(a, b){
@@ -12,4 +12,8 @@ function multiplication(a, b){
 
 function division(a, b){
     return a / b;
+}
+
+function power(a, b){
+    return a^b;
 }
