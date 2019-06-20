@@ -1,4 +1,8 @@
-function sum(a, b){
+function addition(a, b){
+    return a + b;
+}
+
+function subtraction(a, b){
     return console.log(a + b)
 }
 
