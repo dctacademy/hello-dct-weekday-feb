@@ -1,4 +1,4 @@
-function(){
+function funny (){
     console.log('funny')
-    return 'this is a funny function'
+    return 'this is too funny function'
 }
